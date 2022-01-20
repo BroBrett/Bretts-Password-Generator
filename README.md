@@ -5,5 +5,5 @@
  Added arrays to allow use of all letters. numbers, and symbols. Created parameters and created conditions for password.
 
  ## Deployment Link
- -  [Deployment URL](http://) file:///C:/Users/brett/Documents/bootcamp/Password%20Generator/index.html
+ -  [Deployment URL](http://) https://brobrett.github.io/Bretts-Password-Generator/
  -  [GithubRepo URL](http://) https://github.com/BroBrett/Bretts-Password-Generator
